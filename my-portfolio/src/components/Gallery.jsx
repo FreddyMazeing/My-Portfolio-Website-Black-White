@@ -36,7 +36,7 @@ const Gallery = () => {
           <div className="my-10 text-center z-20">
             <h1 className="mt-20 uppercase">Gallery</h1>
             <p className="text-xs lowercase text-slate-500">
-              Explore My Photography Journey!!
+              Explore My Photography Journey!
             </p>
           </div>
           <div className="grid grid-cols-2 md:gap-1 mx-2 z-20  md:grid-cols-6 max-w-7xl ">
